@@ -12,4 +12,5 @@ Task 4 -- A script that create an empty file
 
 Task 5 -- A scripts that adds ececute permission to a file
 
+Task 6 -- A scripts that add more permission to a file'
 
