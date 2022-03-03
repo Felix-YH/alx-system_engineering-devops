@@ -10,4 +10,6 @@ Task 3 -- Change owner of file to new user
 
 Task 4 -- A script that create an empty file
 
+Task 5 -- A scripts that adds ececute permission to a file
+
 
