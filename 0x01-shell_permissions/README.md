@@ -20,4 +20,6 @@ Task 8 -- A script that that give owner,group no permission but other all permis
 
 Task 9 -- A script that gives onwer all permission, group rx and others wx
 
+Task 10 -- How to copy permission to other file
+
 
