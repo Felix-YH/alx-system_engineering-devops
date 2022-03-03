@@ -14,6 +14,10 @@ Task 5 -- A scripts that adds ececute permission to a file
 
 Task 6 -- A scripts that add more permission to a file
 
-Task & -- A script that gives everyone execution permission
+Task 7 -- A script that gives everyone execution permission
+
+Task 8 -- A script that that give owner,group no permission but other all permission
+
+Task 9 -- A script that gives onwer all permission, group rx and others wx
 
 
