@@ -28,4 +28,12 @@ Task 12 -- A script that create a directory and give it a permission
 
 Task 13 -- A script that changes group ownership
 
+Task 14 -- A script that changes owner and group ownership
+
+Task 15 -- A script that changes owner and group ownership using symbolic link
+
+Task 16 -- A script that Changes ownership if the current user exist
+
+Task 17 -- A script that plays star wars
+
 
