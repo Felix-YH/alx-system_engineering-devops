@@ -22,4 +22,10 @@ Task 9 -- A script that gives onwer all permission, group rx and others wx
 
 Task 10 -- How to copy permission to other file
 
+Task 11 -- A script to set permission to only directories
+
+Task 12 -- A script that create a directory and give it a permission
+
+Task 13 -- A script that changes group ownership
+
 
